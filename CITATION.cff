@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "cascade_inference: cost-aware cascaded inference for multilingual misinformation detection"
+authors:
+  - family-names: "Ali"
+    given-names: "Waqas"
+    affiliation: "AFFILIATION"
+version: 1.0.0
+date-released: "2026-01-01"
+license: MIT
+repository-code: "https://github.com/USERNAME/cascade_inference"
+keywords:
+  - cascaded inference
+  - confidence calibration
+  - selective prediction
+  - inference efficiency
+  - misinformation detection
+  - low-resource languages
+preferred-citation:
+  type: article
+  title: "When Calibration Cannot Help: An Invariance Result for Confidence-Gated Cascades, and an Audit of Three Cascade Methods"
+  authors:
+    - family-names: "Ali"
+      given-names: "Waqas"
+  year: 2026
+  journal: "TBD"
